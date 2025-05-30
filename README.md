@@ -1,4 +1,4 @@
-# PINA
+# PINA-DIL
 
 This is the official implementation of our ECCV 2024 paper:  
 _Non-Exemplar Domain Incremental Learning via Cross-Domain Concept Integration_
