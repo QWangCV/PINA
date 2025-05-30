@@ -104,7 +104,7 @@ We also thank [CLIP](https://github.com/openai/CLIP) and [CoOp](https://github.c
 
 
 ## Citation
-If any part of our paper and code is helpful to your research, please consider citing the following bib entry:
+If any part of our paper and code is helpful to your research, please give us a star and consider citing the following bib entry. Thanks!
 ```
 @inproceedings{wang2024non,
   title={Non-exemplar domain incremental learning via cross-domain concept integration},
